@@ -1,2 +1,1 @@
-# AI Travel Planner
-Mini project 
+# AI Travel Planner 
